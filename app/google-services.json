@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "894557947084",
+        "project_id": "kunci-portal",
+        "storage_bucket": "kunci-portal.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:894557947084:android:45dcb0d74bf93bed69ee69",
+                "android_client_info": {
+                    "package_name": "com.satriaappportal.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCjGh1Mlsac-iI7NUtIIaP3LhTfb2U5Vxw"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

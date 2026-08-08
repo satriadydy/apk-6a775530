@@ -1,2 +1,0 @@
-# apk-6a775530
-WebView APK for SAT APP PORTAL

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E4F500</color>
+    <color name="colorPrimaryDark">#c6d700</color>
+    <color name="colorAccent">#ec4899</color>
+    <color name="splash_background">#E4F500</color>
+    <color name="status_bar_color">#19BFC2</color>
+    <color name="loading_bar_color">#F70808</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
